@@ -112,7 +112,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-For any questions or feedback, please reach out to [pritom01dev@gmail.com](mailto:pritom01dev@gmail.com).
+For any questions or feedback, please reach out to [vavillapallyashrith@gmail.com](mailto:vavillapallyashrith@gmail.com).
 
 ---
 
